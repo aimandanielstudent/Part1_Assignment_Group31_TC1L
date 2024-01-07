@@ -1,0 +1,10 @@
+STEPS TO RUN THE PROGRAM
+1. Run LoginExample.java
+
+
+Admin page 
+Id       : Admin123
+password : admin123
+
+Student/Lecturer
+Default password : 0000
